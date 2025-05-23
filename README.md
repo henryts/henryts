@@ -34,7 +34,7 @@ Always eager to take on new challenges, learn new tools, and contribute to innov
 🔗 Let's Connect!
 
 I’m excited to collaborate on projects that push boundaries and solve real-world problems. Check out my repositories to see my work, or reach out to discuss potential opportunities!
-📧 Email: henrysathyan2@gmail.com | GitHub: henryts | LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/henry-sathyan-29b9a633b/)
+📧 Email: henrysathyan2@gmail.com | GitHub: henryts | LinkedIn: [[My LinkedIn]](https://www.linkedin.com/in/henry-sathyan-29b9a633b/)
 
 
 
