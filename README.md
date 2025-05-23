@@ -1,5 +1,43 @@
-# 💫 About Me:
-👋 Hi there! I'm Hendry Sathyan, a passionate MERN stack web developer currently attending a bootcamp and upskilling. With experience in various web technologies and a solid foundation in the MERN stack, I've successfully delivered projects that showcase my proficiency. I have a keen willingness to learn, adapt, and improve. I constantly seek new challenges, stay up to date with the latest industry trends, and strive to deliver clean and efficient code. If you're looking for a dedicated, adaptable, and growth-oriented web developer, let's connect and discuss how I can contribute to your team or project. GitHub: henryts
+About Me
+👋 Hi, I'm Hendry Sathyan! I'm a dedicated Backend Software Engineer at Insuredmine, a startup revolutionizing the insurance industry with its innovative CRM platform. With a strong foundation in web development, cloud technologies, and a passion for problem-solving, I build scalable and efficient solutions that drive impact. Here's a snapshot of who I am and what I bring to the table:
+
+💻 Professional Experience:
+
+Currently working as a Backend Software Engineer at Insuredmine, where I design and develop robust APIs, optimize backend systems, and ensure seamless integration for the insurance CRM product.
+Proficient in delivering high-quality, maintainable code that powers critical business workflows.
+
+
+🌐 Web Development Expertise:
+
+Skilled in the MERN stack (MongoDB, Express.js, React, Node.js), with hands-on experience from a rigorous coding bootcamp completed two years ago.
+Successfully built two full-stack MERN projects and 2-3 mini-projects, showcasing my ability to create end-to-end web applications with clean, efficient, and scalable code.
+
+
+☁️ Cloud Proficiency:
+
+Experienced in deploying and managing applications on AWS, Azure, and Google Cloud Platform.
+Hands-on knowledge of cloud services, including compute, storage, and serverless architectures, ensuring reliable and scalable solutions.
+
+
+🧠 Passion for Problem-Solving & DSA:
+
+Deeply passionate about tackling complex problems through Data Structures and Algorithms (DSA).
+Actively engage in coding challenges and continuously refine my problem-solving skills to write optimized, performant code.
+
+
+🚀 Growth-Oriented Mindset:
+
+Committed to staying updated with the latest industry trends and technologies.
+Always eager to take on new challenges, learn new tools, and contribute to innovative projects.
+
+
+🔗 Let's Connect!
+
+I’m excited to collaborate on projects that push boundaries and solve real-world problems. Check out my repositories to see my work, or reach out to discuss potential opportunities!
+📧 Email: henrysathyan2@gmail.com | GitHub: henryts | LinkedIn: [[Your LinkedIn]](https://www.linkedin.com/in/henry-sathyan-29b9a633b/)
+
+
+
 
 
 ## 🌐 Socials:
