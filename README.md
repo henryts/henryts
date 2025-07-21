@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm **Hendry Sathyan**, a Software Engineer at InsuredMine, building scalable systems and efficient APIs for a modern insurance CRM. I’m passionate about delivering high-impact solutions, solving complex problems, and staying ahead in a rapidly evolving tech landscape.
+Hi, I'm **Hendry Sathyan**, Software Engineer at InsuredMine, building scalable systems and efficient APIs for a modern insurance CRM. I’m passionate about delivering high-impact solutions, solving complex problems, and staying ahead in a rapidly evolving tech landscape.
 
 ---
 
