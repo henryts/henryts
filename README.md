@@ -5,7 +5,7 @@ Hi, I'm **Hendry Sathyan**, Software Engineer at **Insuredmine**, building scala
 ---
 
 ### 💻 Experience
-- Backend Engineer @ Insuredmine: Building and optimizing backend services and integrations.
+- Software Engineer @ Insuredmine: Building and optimizing backend and frontend services and integrations.
 - Strong foundation in **Node.js**, **Express**, **MongoDB**, and cloud platforms like **AWS**, **Azure**, and **GCP**.
 
 ---
