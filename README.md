@@ -6,7 +6,7 @@ Hi, I'm **Hendry Sathyan**, Software Engineer at InsuredMine, building scalable 
 
 ### 💻 Experience
 - Software Engineer @ Insuredmine: Building and optimizing backend and frontend services and integrations.
-- Strong foundation in **Node.js**, **Express**, **MongoDB**, and cloud platforms like **AWS**, **Azure**, and **GCP**.
+- Strong foundation in **Node.js**, **Express**, **MongoDB**,**React**, and cloud platforms like **AWS**, **Azure**, and **GCP**.
 
 ---
 
